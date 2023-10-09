@@ -1,28 +1,19 @@
-# <h1 align="center"> 🍔 PROJETO CODE'S BURGUER 🍔 </h1>
+# <h1 align="center"> 🍔 CODE'S BURGUER 🍔 </h1>
 
 <h2 align="center">
-  CODE'S BURGUER
+  Coma e code no melhor dos dois mundos!
   <p align="center">
 
 ![image](https://github.com/Edivania88Duarte/PROJETO-DEV-BURGUER/assets/120994730/5cc47743-94d6-4f1d-b0ec-554416c50fc1) 
 
 </p>
-</h2>
-<br> 
-<h5 aling="center> Coma e code no melhor dos dois mundos! </h5>
+
   <br>
-  <br>
+ 
   
-
-
 ![image](https://github.com/Edivania88Duarte/PROJETO-DEV-BURGUER/assets/120994730/f5005dff-45f9-4f96-8e57-453c0ec66bac)
 
-
-
-
-</p>
-
-
+<br>
 
 ## <h1> 💻 PROJETO</h1>
 
