@@ -3,9 +3,9 @@ document.querySelector('.menuMobile').addEventListener('click', function() {
   })
 
 
-  window.addEventListener("load", function () {
-    if (window.innerWidth < 768) {
-        backgroundVideo.removeAttribute("autoplay");
-        playButton.style.display = "block"; // Mostra o botão de reprodução
-    }
-});
+//   window.addEventListener("load", function () {
+//     if (window.innerWidth < 768) {
+//         backgroundVideo.removeAttribute("autoplay");
+//         playButton.style.display = "block"; // Mostra o botão de reprodução
+//     }
+// });
