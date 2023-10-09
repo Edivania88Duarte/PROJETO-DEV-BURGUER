@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com/" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Varela+Round&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" href="style.css">
+    <title>Code's Burguer</title>
+</head>
+<body>
+
+    <div id ="background">
+        <video video loop autoplay muted>
+         <source src="./Assets/Vídeo Burguer.webm" type="video/webm">
+        </video>
+
+        <button id="play-button">Iniciar Vídeo</button>
+
+    </div> 
+
+        <nav class="navBar">
+            <div class="menuMobile">
+                <div class="line"></div>
+                <div class="line"></div>
+                <div class="line"></div>
+            </div>
+            <a class="logo" href="#">
+                <div class="boxlogo">
+                    <p class="logo">CODE'S BURGUER</p> 
+                    <p class="logo2">Coma e Code no melhor dos dois mundos!</p>
+                </div>
+            </a>
+            <div class="navLinks">
+                <a href="#" class="show-all">Cardápio</a>
+                <a href="#" class="map-all">Promoções</a>
+                <a href="#" class="sum-all">Valor Total</a>
+                <a href="#" class="filter-all">Veganos</a>
+            </div>
+        </nav>
+ 
+          <div class="boxScroll"> 
+              <ul id="burger">
+                 <!-- <li>
+                     <img src="">
+                     <p>X-Delicia</p>
+                     <p class="item-price">R$30.00</p>
+                 </li> -->
+              </ul>
+          </div>
+
+                        
+    <script src="./products.js"></script>
+    <script src="./script.js"></script>
+    <script src="./scriptResp.js"></script>
+    <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
+<script>
+    AOS.init();
+  </script>
+   
+</body>
+</html>
