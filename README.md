@@ -39,7 +39,7 @@ Cada um desses métodos tem um papel fundamental na programação funcional e po
 
 - [x] Uso HTML semântico
 - [x] Inclusão de video no background
-- [x] Utilização de scrum no css
+- [x] Utilização de scroll no css
 - [x] Uso das animações da biblioteca [AOS])
 - [x] Utilização do display grid e flex no CSS  
 - [x] Efeitos com a propriedade `transform` do CSS
